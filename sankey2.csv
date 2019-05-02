@@ -1,3 +1,8 @@
 source,target,value
-Prepaid,Current,2
-Current,Current,2
+Barry,Elvis,2
+Frodo,Elvis,2
+Frodo,Sarah,2
+Barry,Alice,2
+Elvis,Sarah,2
+Elvis,Alice,2
+Sarah,Alice,4
